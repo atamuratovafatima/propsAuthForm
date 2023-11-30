@@ -1,0 +1,8 @@
+form{
+    width: 30em;
+}
+input{
+    width: 100%;
+    display: 100%;
+    padding: .5em;
+}
